@@ -16,6 +16,20 @@ This project utilizes BERT for sentiment analysis, allowing for the training and
    !pip install -r requirements.txt
    !pip install accelerate -U
    ```
+## Requirements
+
+- Python 3.9+
+- Google Colab or similar Jupyter notebook environment or vs code
+- Dependencies listed in `requirements.txt`
+
+## Project Structure
+
+- **src/**: Contains training and testing scripts.
+- **requirements.txt**: Lists all necessary Python packages.
+
+
+## VS Code Run
+visit [VS code training pic ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/sentiment-analysis-bert/Screenshoot-Training-VS.png)
 
 ## Configuration
 
@@ -29,6 +43,17 @@ visit the -> [Notebook training](https://github.com/atikul-islam-sajib/Other-Tas
 - **Train the Model:** Execute `main1_train_BERT.py` to train your model.
 - **Test the Model:** Run `main2_play_trained_model.py` to test the model on new data.
 
+## Train model - Notebook
+```sh
+!python /content/Other-Tasks/projects/sentiment-analysis-bert/src/main1_train_BERT.py
+```
+
+## Test model - Notebook
+```sh
+!python /src/main2_play_trained_model.py
+```
+
+
 ## Expected Output
 
 Testing the model will yield predictions with labels (`LABEL_0` for negative, `LABEL_1` for positive sentiment) and confidence scores. Example outputs:
@@ -38,14 +63,3 @@ Testing the model will yield predictions with labels (`LABEL_0` for negative, `L
 [{'label': 'LABEL_0', 'score': 0.9985}]
 ...
 ```
-
-## Requirements
-
-- Python 3.9+
-- Google Colab or similar Jupyter notebook environment or vs code
-- Dependencies listed in `requirements.txt`
-
-## Project Structure
-
-- **src/**: Contains training and testing scripts.
-- **requirements.txt**: Lists all necessary Python packages.
