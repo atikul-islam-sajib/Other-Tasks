@@ -35,7 +35,7 @@ Geo-Prediction of new customers' based on calculated geo-segments:
 ![Plot 3](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/same_2.png)
 ![Plot 4](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/same_4.png)
 
-## Confusion metrics - after training
+## Confusion metrics and  Classification report - after training
 ```sh
 Confusion Matrix:
  [[ 77  10 122  25  51]
@@ -43,10 +43,9 @@ Confusion Matrix:
  [  7   0  27   0   1]
  [  0   0   0   8   2]
  [  7   0   0   0  15]]
-````
 
-## Classification report - after training 
-```sh
+
+
 Classification Report:
                precision    recall  f1-score   support
 
