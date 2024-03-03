@@ -46,6 +46,8 @@ Additionally, a Scree Plot was generated to determine the number of clusters:
    ```
    python main.py
    ```
+visit here [VS code run ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-clustering/Screenshot%20(33).png).
+
 
 ## How to Run In Notebook
 
