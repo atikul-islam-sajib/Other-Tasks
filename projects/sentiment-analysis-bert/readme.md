@@ -22,7 +22,7 @@ This project utilizes BERT for sentiment analysis, allowing for the training and
 Ensure any directory change commands (`os.chdir`) in `main1_train_BERT.py` and `main2_play_trained_model.py` are commented out or adapted to your environment.
 
 ## User Guide Notebook
-visit the -> [Notebook training](https://atikul-islam-sajib.github.io/AC-GAN-deploy/).
+visit the -> [Notebook training](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/sentiment-analysis-bert/bert_user's_guide.ipynb).
 
 ## Usage
 
