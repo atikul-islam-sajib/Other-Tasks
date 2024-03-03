@@ -21,8 +21,9 @@ The following figures show the clustering results on a map, with each cluster re
 *Figure 4: Clusters of geospatial data highlighting cluster 4.*
 ![Geospatial Data Visualization: Cluster 4](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/5.png)
 
-![Geospatial Data Visualization: Cluster 0](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/1.png)
+
 *Figure 0: Clusters of geospatial data with an emphasis on cluster 0, indicating areas not included in clusters 1-4.*
+![Geospatial Data Visualization: Cluster 0](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/1.png)
 
 Additionally, a Scree Plot was generated to determine the number of clusters:
 ![Scree Plot](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/-1.png)
