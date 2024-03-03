@@ -9,7 +9,7 @@ This project performs geospatial clustering on a dataset and visualizes the resu
 
 The following figures show the clustering results on a map, with each cluster represented by a different color:
 
-![Geospatial Data Visualization: Cluster 1]([path-to-image/cluster_1.png](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-clustering/download.png))
+![Geospatial Data Visualization: Cluster 1](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-clustering/download.png)
 *Figure 1: Clusters of geospatial data highlighting cluster 1.*
 
 ![Geospatial Data Visualization: Cluster 2](path-to-image/cluster_2.png)
