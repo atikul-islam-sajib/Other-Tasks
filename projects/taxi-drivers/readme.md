@@ -10,7 +10,7 @@ This Python script implements a Q-learning algorithm to solve the Taxi environme
 #### Requirements:
 - Python (version >= 3.6)
 - OpenAI Gym
-- Required Python packages: `cmake`, `scipy`, `pygame`, `numpy`, `matplotlib`, `random`, `time`, ``
+- Required Python packages: `cmake`, `scipy`, `pygame`, `numpy`, `matplotlib`, `random`, `time`, `gymnasium`
 
 #### Usage:
 1. Install the required packages.
