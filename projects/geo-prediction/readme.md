@@ -79,6 +79,7 @@ weighted avg       0.72      0.36      0.39       355
    ```
    python main.py
    ```
+visit here [VS code run ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/geo-prediction/Screenshot%20(35).png).
 
 ## How to Run In Notebook
 
