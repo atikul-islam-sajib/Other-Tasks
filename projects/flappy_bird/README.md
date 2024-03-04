@@ -1,20 +1,5 @@
 # [PYTORCH] Deep Q-learning for playing Flappy Bird
 
-Source: https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/tree/master
-
-## Introduction
-
-Here is the python source code for training an agent to play flappy bird. 
-<p align="center">
-  <img src="demo/flappybird.gif" width=600><br/>
-  <i>Result</i>
-</p>
-
-## How to use the code
-
-* **Train your model from scratch** by running **python train.py**
-* **Test your trained model** by running **python test.py**
-
 ## Trained models
 
 You could find trained model at **trained_models/flappy_bird**
@@ -27,3 +12,20 @@ You could find trained model at **trained_models/flappy_bird**
 * **torch** 
 * **numpy**
 * **tensorboardX**
+
+## How to Run In Vs code
+1. Clone the repository:
+   ```
+   git clone https://github.com/atikul-islam-sajib/Other-Tasks.git
+   cd flappy_bird
+   ```
+2. Install the requirements.txt
+   ```
+   pip install -r requirements.txt
+   ```
+3. Run the main.py file and wait for a while to do the cluster
+   ```
+   Train your model from scratch** by running **python train.py**
+   Test your trained model** by running **python test.py**
+   ```
+visit here [VS code run ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png).
