@@ -29,3 +29,8 @@ You could find trained model at **trained_models/flappy_bird**
    Test your trained model** by running **python test.py**
    ```
 visit here [VS code run ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png).
+
+
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=atikul-islam-sajib_atikul-islam-sajib-Software_Engineering_Course&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=atikul-islam-sajib_atikul-islam-sajib-Software_Engineering_Course)
