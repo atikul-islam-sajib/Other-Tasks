@@ -1,6 +1,7 @@
 # [PYTORCH] Deep Q-learning for playing Flappy Bird
 
-[![Quality Gate Status](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png)
+
+![Quality Gate Status](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png)
 
 ## Trained models
 
