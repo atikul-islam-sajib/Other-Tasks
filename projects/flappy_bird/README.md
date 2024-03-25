@@ -1,5 +1,7 @@
 # [PYTORCH] Deep Q-learning for playing Flappy Bird
 
+[![Quality Gate Status](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png)
+
 ## Trained models
 
 You could find trained model at **trained_models/flappy_bird**
@@ -30,7 +32,3 @@ You could find trained model at **trained_models/flappy_bird**
    ```
 visit here [VS code run ](https://github.com/atikul-islam-sajib/Other-Tasks/blob/main/projects/flappy_bird/Screenshot%20(40).png).
 
-
-
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=atikul-islam-sajib_atikul-islam-sajib-Software_Engineering_Course&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=atikul-islam-sajib_atikul-islam-sajib-Software_Engineering_Course)
