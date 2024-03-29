@@ -13,9 +13,7 @@
   Model governance becomes non-optional as companies navigate impending EU regulations, underscoring the need for rigorous AI system categorization and compliance strategies.
   
   EU Regulation Overview
-  ▪ April 2021 EU draft proposes the first legal framework for AI.
-  ▪ Categorizes AI systems by risk levels, determining regulatory
-  requirements.
+  * April 2021 EU draft proposes the first legal framework for AI.    * Categorizes AI systems by risk levels, determining regulatoryrequirements.
   
   
   AI Risk Categories
