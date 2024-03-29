@@ -43,7 +43,7 @@
 ### what is the connection between ml-ops and CI/CD?!
 
 
-  CI/CD of ML pipelines enables teams to build source code, run tests, and deploy automated pipelines for continuous delivery and training. Encompasses model development, deployment, and monitoring. Add layers for data versioning, model validation using tools, for examples, MLFlow, TFX, Kubeflow etc.
+  CI/CD of ML pipelines enables teams to build source code, run tests, and deploy automated pipelines for continuous delivery and training. Encompasses model development, deployment, and monitoring with respect to adding layers for data versioning, model validation using tools, for examples, MLFlow, TFX, Kubeflow etc.
 
 
 ### Describe the MLOps infrastructure stack in two paragraphs?
