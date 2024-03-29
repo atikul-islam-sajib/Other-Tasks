@@ -16,7 +16,7 @@
 ##### 1. Concept Drift - **Example**: A sentiment analysis model trained on 2000s movie reviews begins to perform badly on current reviews due to linguistic changes and new slang.
 
 
-[Link of the dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset).
+[Link of the dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews).
 
 
 ##### 2. Data Drift - **Example**: A model predicting property prices based on location and size loses accuracy as the dataset ages and no longer reflects current market trends.
