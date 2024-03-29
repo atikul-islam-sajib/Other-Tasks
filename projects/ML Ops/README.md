@@ -37,3 +37,10 @@
   ▪ Category 4: Minimal Risk
   
   Low or no regulation needed (e.g., spam filters
+
+
+### what is the connection between ml-ops and CI/CD?!
+
+
+CI/CD of ML pipelines enables teams to build source code, run tests, and deploy automated pipelines for continuous delivery and training. Encompasses model development, deployment, and monitoring. Add layers for data versioning, model validation using tools, for examples, MLFlow, TFX, Kubeflow etc.
+  
