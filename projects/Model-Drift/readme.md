@@ -12,10 +12,6 @@
   
 
 # Installation:
-# install Python 3.10+ on your system, restart system
-# Example here: Windows 11, Linux, MacOS
-
-# Installation:
 c:
 cd C:\(...)\Lec5_ Model Drift
 
