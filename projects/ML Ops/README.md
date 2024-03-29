@@ -18,26 +18,26 @@
 
   ##### key points if you explain:
   
-  AI Risk Categories
-  
-  ▪ Category 1: Unacceptable Risk
-  High-risk AI (e.g., social scoring) banned to protect rights, security.
-
-  
-  ▪ Category 2: High Risk
-  
-  Stringent requirements for robustness, security, documentation, nondiscrimination, and transparency. Systems include credit scoring
-  and educational access.
-
-  
-  ▪ Category 3: Limited Risk
-  
-  Transparency obligations, such as informing users when interacting with AI (e.g., chatbots).
-  
-  
-  ▪ Category 4: Minimal Risk
-  
-  Low or no regulation needed (e.g., spam filters
+      AI Risk Categories
+      
+      ▪ Category 1: Unacceptable Risk
+      High-risk AI (e.g., social scoring) banned to protect rights, security.
+    
+      
+      ▪ Category 2: High Risk
+      
+      Stringent requirements for robustness, security, documentation, nondiscrimination, and transparency. Systems include credit scoring
+      and educational access.
+    
+      
+      ▪ Category 3: Limited Risk
+      
+      Transparency obligations, such as informing users when interacting with AI (e.g., chatbots).
+      
+      
+      ▪ Category 4: Minimal Risk
+      
+      Low or no regulation needed (e.g., spam filters
 
 
 ### what is the connection between ml-ops and CI/CD?!
