@@ -42,5 +42,13 @@
 ### what is the connection between ml-ops and CI/CD?!
 
 
-CI/CD of ML pipelines enables teams to build source code, run tests, and deploy automated pipelines for continuous delivery and training. Encompasses model development, deployment, and monitoring. Add layers for data versioning, model validation using tools, for examples, MLFlow, TFX, Kubeflow etc.
+  CI/CD of ML pipelines enables teams to build source code, run tests, and deploy automated pipelines for continuous delivery and training. Encompasses model development, deployment, and monitoring. Add layers for data versioning, model validation using tools, for examples, MLFlow, TFX, Kubeflow etc.
+
+
+### Describe the MLOps infrastructure stack in two paragraphs?
+
+
+  Ensuring that MLOPs have a business impact. and it is used for planning the cost of the infrastructure components for the MLOps stack by considering three main areas like data/code management, ML model and meta data management. Furthermore, It is used for planning the cost of the orchestration of the ML system to manage its life-cycle and maintainability by considering.
+  
+  In addition, It is paramount for designing the ML system to fulfill, reproducibility, for example, versioning, feature store, pipelines and reliability, and top of that efficiency with respect to model predictions are fast and as cost-effective as possible
   
