@@ -15,7 +15,8 @@
   EU Regulation Overview
   
   ▪ April 2021 EU draft proposes the first legal framework for AI.  Categorizes AI systems by risk levels, determining regulatoryrequirements.
-  
+
+  ##### key points if you explain:
   
   AI Risk Categories
   
