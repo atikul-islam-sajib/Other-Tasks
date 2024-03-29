@@ -1,4 +1,4 @@
-###What are the key principles of ml-ops?
+### What are the key principles of ml-ops?
 
   1. Iterative-Incremental Development
   2. Levels of Automation
