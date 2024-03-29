@@ -1,12 +1,12 @@
 ### What are the key principles of ml-ops?
 
-  1. Iterative-Incremental Development
-  2. Levels of Automation
-  3. Monitoring 
-  4. Versioning
-  5. Experiment tracking 
-  6. Testing
-  7. Documentation & Project Structure
+    1. Iterative-Incremental Development
+    2. Levels of Automation
+    3. Monitoring 
+    4. Versioning
+    5. Experiment tracking 
+    6. Testing
+    7. Documentation & Project Structure
 
 ### What is model governance in the context of ml-ops and what would be the key points if you explain this to a CEO?
 
